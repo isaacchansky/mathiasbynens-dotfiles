@@ -25,6 +25,7 @@ installcask the-unarchiver
 installcask toggldesktop
 installcask transmission
 installcask transmit
+installcask typoa
 installcask ukelele
 installcask virtualbox
 installcask vlc
