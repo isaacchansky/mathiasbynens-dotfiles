@@ -17,7 +17,9 @@ installcask imageoptim
 installcask iterm2
 installcask macvim
 installcask miro-video-converter
+installcask postman
 installcask slack
+installcask skype
 installcask spectacle
 installcask spotify
 installcask sublime-text
